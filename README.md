@@ -36,7 +36,7 @@ Here are a few projects I’m proud of:
 ---
 
 ## Social Media
-- Discord: xkikiya
+- Discord: syuvi211
 
 ---
 
