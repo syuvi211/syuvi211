@@ -27,7 +27,7 @@ Here are a few projects I’m proud of:
 
 ## GitHub Stats
 <p>
-  <img src="https://img.shields.io/badge/dynamic/json?style=social&logo=github&label=Followers&query=%24.followers&url=https%3A%2F%2Fapi.github.com%2Fusers%syuvi211" />
+  <img src="https://img.shields.io/badge/dynamic/json?style=social&logo=github&label=Followers&query=%24.followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsyuvi211" />
   <br>
   <img src="https://img.shields.io/github/stars/syuvi211?style=social" />
 </p>
